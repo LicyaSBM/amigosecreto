@@ -5,9 +5,9 @@ Este é um projeto em **HTML, CSS e JavaScript**, para o  “Challenge de Inicia
 ## 🚀 Funcionalidades  
 
 - **Adicionar participantes**  
-  - Permite digitar o nome de cada amigo.  
-  - Os nomes aparecem listados na tela.  
-  - Nçao deixa inserir nomes repetidos ou em branco.  
+  - Permite digitar o nome de cada amigo secreto.  
+  - Os nomes digitados aparecem listados na tela.  
+  - Não deixa inserir nomes repetidos ou em branco.  
 
 - **Listagem dinâmica**  
   - Exibe em tempo real a lista dos amigos que já foram adicionados.  
