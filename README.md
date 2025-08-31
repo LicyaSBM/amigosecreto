@@ -40,7 +40,9 @@ Este é um projeto em **HTML, CSS e JavaScript**, para o  “Challenge de Inicia
 
 ## 📋 Como Usar  
 
-![Comousar]images/Changelle Amigo Secreto.png
+![Tela do Sorteio](images/Changelle%20Amigo%20Secreto.png)
+
+
 ---
 
 ## 🎯 Possíveis Melhorias  
