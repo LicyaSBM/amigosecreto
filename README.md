@@ -31,13 +31,7 @@ Este é um projeto em **HTML, CSS e JavaScript**, para o  “Challenge de Inicia
 
 ![Tela do Sorteio](images/Changelle%20Amigo%20Secreto.png)
 
----
 
-## 🎯 Possíveis Melhorias  
-
-- Implementar um sistema de login ou senha para cada participante ver apenas o seu amigo.  
-- Implementar animações ou efeitos visuais no sorteio.  
-- Opção de resetar a lista e começar um novo jogo rapidamente.  
 
 ---
 
