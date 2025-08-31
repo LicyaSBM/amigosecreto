@@ -6,14 +6,11 @@ Este é um projeto em **HTML, CSS e JavaScript**, para o  “Challenge de Inicia
 
 - **Adicionar participantes**  
   - Permite digitar o nome de cada amigo secreto.  
-  - Os nomes digitados aparecem listados na tela.  
+  - Exibe em tempo real a lista dos amigos que já foram adicionados.  
   - Não deixa inserir nomes repetidos ou em branco.  
 
-- **Listagem dinâmica**  
-  - Exibe em tempo real a lista dos amigos que já foram adicionados.  
-
 - **Sorteio**  
-  - Os participantes escolhem uma pessoa fora da lista para realizar 0 **Sorteio**. 
+  - Os participantes escolhem uma pessoa fora da lista para realizar o **Sorteio**. 
   - O resultado aparece na tela.  
  
 - **Interface simples e intuitiva**  
