@@ -7,13 +7,13 @@ Este é um projeto em **HTML, CSS e JavaScript**, para o  “Challenge de Inicia
 - **Adicionar participantes**  
   - Permite digitar o nome de cada amigo.  
   - Os nomes aparecem listados na tela.  
-  - Evita inserir nomes repetidos ou em branco.  
+  - Nçao deixa inserir nomes repetidos ou em branco.  
 
 - **Listagem dinâmica**  
   - Exibe em tempo real a lista dos amigos que já foram adicionados.  
 
 - **Sorteio**  
-  - Os participantes escolhe uma pessoa fora da lista para  **Sortear**. 
+  - Os participantes escolhem uma pessoa fora da lista para realizar 0 **Sorteio**. 
   - O resultado aparece na tela.  
  
 - **Interface simples e intuitiva**  
@@ -30,18 +30,9 @@ Este é um projeto em **HTML, CSS e JavaScript**, para o  “Challenge de Inicia
 │── README.md # Documentação do projeto
 ---
 
-## 🛠️ Tecnologias Utilizadas  
-
-- **HTML5** → Estrutura da página.  
-- **CSS3** → Estilização visual.  
-- **JavaScript (ES6+)** → Lógica do sorteio e manipulação da lista.  
-
----
-
 ## 📋 Como Usar  
 
 ![Tela do Sorteio](images/Changelle%20Amigo%20Secreto.png)
-
 
 ---
 
