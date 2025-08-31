@@ -58,6 +58,9 @@ function sortearAmigo(){
         //remove o amigo ja sorteado
         amigos.splice(indiceAleatorio, 1);
         atualizarAmigos();
+
+        document.getElementById('listaAmigos').innerHTML = ''; //esconde a lista após o primeiro sorteio
+        
         //resultado
         let ulresultado = document.getElementById('resultado');
         ulresultado.innerHTML = '';
